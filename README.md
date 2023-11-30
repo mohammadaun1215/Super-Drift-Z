@@ -1,32 +1,70 @@
 # Super-Drift-Z
 
-Super Drift Z is a basic San Andreas Multiplayer Stunt Gamemode released back in 2018 by $ilent[G]uy really good for hangouts, A List of all commands is written below:
+Super Drift Z is a basic San Andreas Multiplayer Stunt Gamemode released back in 2018 by $ilent[G]uy, perfect for hangouts.
 
-GeneralCommands: /kill, /heal, /armour, /suggest, /credits, /build, /rules, /givecash
+## Commands
 
-VehicleCommands: /v
+### General Commands
+- `/kill`
+- `/heal`
+- `/armour`
+- `/suggest`
+- `/credits`
+- `/build`
+- `/rules`
+- `/givecash`
 
-TeleportCommand: /teles, (List Of All Teleports)
+### Vehicle Commands
+- `/v`
 
-DeathmatchCommands: /dm, /dm2
+### Teleport Command
+- `/teles` (List of All Teleports)
 
-Teleports
+### Deathmatch Commands
+- `/dm`
+- `/dm2`
 
- Cities: /ls, /sf, /lv
+## Teleports
 
-Airports: /lsa, /sfa, /lva, /aa
+### Cities
+- `/ls`
+- `/sf`
+- `/lv`
 
-FunPlaces: /mc, /stuntpark, /derby
+### Airports
+- `/lsa`
+- `/sfa`
+- `/lva`
+- `/aa`
 
-Tune Places: /lvtune, /arch, /lstune, /loco
+### Fun Places
+- `/mc`
+- `/stuntpark`
+- `/derby`
 
-Deathmatches: /dm, /dm2
+### Tune Places
+- `/lvtune`
+- `/arch`
+- `/lstune`
+- `/loco`
 
-OtherPlaces: /kart, /as, /minigames
-	
-Minigames
+### Deathmatches
+- `/dm`
+- `/dm2`
 
-Dives: /dive, /dive2, /dive3
+### Other Places
+- `/kart`
+- `/as`
+- `/minigames`
 
-Parkour: /pk, /pk2, /pk3
+## Minigames
 
+### Dives
+- `/dive`
+- `/dive2`
+- `/dive3`
+
+### Parkour
+- `/pk`
+- `/pk2`
+- `/pk3`
